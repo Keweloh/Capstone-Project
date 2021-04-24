@@ -1,0 +1,28 @@
+Borough,City,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+Tempelhof-Schöneberg,Berlin,52.44060329999999,13.3737035,3,Café,Italian Restaurant,Ice Cream Shop,Cocktail Bar,Bakery,Bar,Pizza Place,Park,Vietnamese Restaurant,French Restaurant
+Neukölln,Berlin,52.481149699999996,13.435350099999999,3,Bar,Café,Coffee Shop,Pizza Place,Indie Movie Theater,Italian Restaurant,Vegetarian / Vegan Restaurant,Turkish Restaurant,Farmers Market,Garden
+Charlottenburg-Wilmersdorf,Berlin,52.507855799999994,13.263951800000001,3,Hotel,Italian Restaurant,Bakery,Gourmet Shop,Coffee Shop,Plaza,Café,Supermarket,Dessert Shop,Drugstore
+Schöneberg,Berlin,52.482156999999994,13.355190099999998,3,Café,Coffee Shop,Bar,Hotel,Pizza Place,Plaza,Ice Cream Shop,Cocktail Bar,Park,Organic Grocery
+Friedrichshain-Kreuzberg,Berlin,52.501115399999996,13.4442848,3,Coffee Shop,Bar,Café,Italian Restaurant,Hotel,Ice Cream Shop,Cocktail Bar,Vegetarian / Vegan Restaurant,Park,Bakery
+Mitte,Berlin,52.5178855,13.404060099999999,3,Hotel,Café,Coffee Shop,Bar,Park,Plaza,Bakery,Italian Restaurant,Ice Cream Shop,Art Gallery
+Pankow,Berlin,52.5979174,13.435316,3,Café,Bakery,Coffee Shop,Ice Cream Shop,Vietnamese Restaurant,Italian Restaurant,Park,Bar,Wine Bar,Beer Bar
+Bezirksteil Sendlinger Feld,munich,48.11414445,11.550176655394427,5,Italian Restaurant,Café,German Restaurant,Bakery,Supermarket,Hotel,Greek Restaurant,Bar,Ice Cream Shop,Gastropub
+Bezirksteil Am Schlachthof,munich,48.124568,11.555180834936365,5,Café,German Restaurant,Italian Restaurant,Ice Cream Shop,Bar,Vietnamese Restaurant,Asian Restaurant,Burger Joint,Drugstore,Bistro
+Bezirksteil Glockenbach,munich,48.1278638,11.5706135,6,Café,German Restaurant,Ice Cream Shop,Italian Restaurant,Coffee Shop,Plaza,Bar,Vietnamese Restaurant,Cocktail Bar,Bavarian Restaurant
+Bezirksteil Obere Au,munich,48.1240402,11.591179647878166,1,Café,German Restaurant,Plaza,Italian Restaurant,Coffee Shop,Beer Garden,Hotel,Ice Cream Shop,Gourmet Shop,Pub
+Bezirksteil Echarding,munich,48.12736565,11.617461468778984,1,Italian Restaurant,Café,Plaza,German Restaurant,Thai Restaurant,Bar,Gym / Fitness Center,French Restaurant,Supermarket,Hotel
+Bezirksteil Friedenheim,munich,48.1361974,11.5184281,5,Supermarket,Hotel,Italian Restaurant,Drugstore,Bakery,Doner Restaurant,Plaza,Music Venue,Greek Restaurant,Burger Joint
+Bezirksteil Westend,munich,48.13584795,11.533597395662994,2,Hotel,Café,German Restaurant,Bavarian Restaurant,Bar,Italian Restaurant,Sushi Restaurant,Music Venue,Supermarket,Asian Restaurant
+Bezirksteil Ludwigsvorstadt-Kliniken,munich,48.13510925,11.560655469801647,6,Café,Ice Cream Shop,Plaza,Clothing Store,Church,Hotel,Bavarian Restaurant,Italian Restaurant,Vietnamese Restaurant,Cocktail Bar
+Bezirksteil Graggenau,munich,48.13956325,11.580182034078117,1,Plaza,Café,Coffee Shop,German Restaurant,Hotel,Bavarian Restaurant,Restaurant,Gourmet Shop,Bookstore,Clothing Store
+Bezirksteil Steinhausen,munich,48.1381528,11.6102941981486,1,Plaza,German Restaurant,Italian Restaurant,Café,Gourmet Shop,Hotel,Bakery,Restaurant,Concert Hall,Ice Cream Shop
+Bezirksteil Parkstadt,munich,48.14569015,11.62193521073524,4,Italian Restaurant,Hotel,Restaurant,Indian Restaurant,Supermarket,Bakery,Café,German Restaurant,Gym / Fitness Center,Middle Eastern Restaurant
+Bezirksteil Marsfeld,munich,48.14585455,11.550135669336331,2,Café,Hotel,German Restaurant,Ice Cream Shop,Steakhouse,Plaza,Italian Restaurant,Restaurant,Asian Restaurant,Trattoria/Osteria
+Bezirksteil Königsplatz,munich,48.14554215,11.566671526886738,6,Café,Plaza,Art Museum,Italian Restaurant,Ice Cream Shop,Steakhouse,Bar,Vietnamese Restaurant,Bakery,Coffee Shop
+Bezirksteil Englischer Garten Süd,munich,48.14835340000001,11.591235724625369,6,Café,Italian Restaurant,Plaza,Ice Cream Shop,German Restaurant,Trattoria/Osteria,Pizza Place,Bar,Cocktail Bar,River
+Bezirksteil Altbogenhausen,munich,48.14451855,11.605714623873626,4,Italian Restaurant,Restaurant,Hotel,Plaza,Beer Garden,Supermarket,Bakery,Café,Indian Restaurant,Gourmet Shop
+Bezirksteil Schwere-Reiter-Straße,munich,48.1620211,11.55758302196005,0,Café,Italian Restaurant,Vietnamese Restaurant,Bar,Asian Restaurant,Steakhouse,Coffee Shop,Trattoria/Osteria,Mediterranean Restaurant,German Restaurant
+Bezirksteil Neuschwabing,munich,48.15921555,11.570658267560948,0,Bar,Café,Vietnamese Restaurant,Italian Restaurant,Bakery,Greek Restaurant,Thai Restaurant,Breakfast Spot,Restaurant,German Restaurant
+Bezirksteil Kleinhesselohe,munich,48.15606545,11.598019325761836,0,Bar,Italian Restaurant,Trattoria/Osteria,Café,Hotel,German Restaurant,Vietnamese Restaurant,Bakery,Thai Restaurant,Plaza
+Bezirksteil Am Luitpoldpark,munich,48.17053485,11.571827825567606,3,Park,Greek Restaurant,Drugstore,Italian Restaurant,Pizza Place,Bar,Bakery,Pool,Restaurant,Museum
+Bezirksteil Münchener Freiheit,munich,48.16849195,11.589832177242096,0,Bar,Hotel,Italian Restaurant,Thai Restaurant,Café,German Restaurant,Austrian Restaurant,Bakery,Trattoria/Osteria,Restaurant
